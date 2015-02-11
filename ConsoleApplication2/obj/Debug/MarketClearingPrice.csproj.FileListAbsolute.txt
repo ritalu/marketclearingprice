@@ -1,0 +1,19 @@
+c:\users\reetah\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\reetah\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\reetah\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\reetah\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\MarketClearingPrice.csprojResolveAssemblyReference.cache
+c:\users\reetah\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\reetah\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MarketClearingPrice.exe.config
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\MarketClearingPrice\ConsoleApplication2\bin\Debug\MarketClearingPrice.exe.config
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\MarketClearingPrice\ConsoleApplication2\bin\Debug\MarketClearingPrice.exe
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\MarketClearingPrice\ConsoleApplication2\bin\Debug\MarketClearingPrice.pdb
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\MarketClearingPrice\ConsoleApplication2\obj\Debug\MarketClearingPrice.csprojResolveAssemblyReference.cache
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\MarketClearingPrice\ConsoleApplication2\obj\Debug\MarketClearingPrice.exe
+C:\Users\Reetah\Documents\Visual Studio 2013\Projects\MarketClearingPrice\ConsoleApplication2\obj\Debug\MarketClearingPrice.pdb
+C:\Users\Reetah\marketclearingprice\ConsoleApplication2\bin\Debug\MarketClearingPrice.exe.config
+C:\Users\Reetah\marketclearingprice\ConsoleApplication2\obj\Debug\MarketClearingPrice.exe
+C:\Users\Reetah\marketclearingprice\ConsoleApplication2\obj\Debug\MarketClearingPrice.pdb
+C:\Users\Reetah\marketclearingprice\ConsoleApplication2\bin\Debug\MarketClearingPrice.exe
+C:\Users\Reetah\marketclearingprice\ConsoleApplication2\bin\Debug\MarketClearingPrice.pdb
+C:\Users\Reetah\marketclearingprice\ConsoleApplication2\obj\Debug\MarketClearingPrice.csprojResolveAssemblyReference.cache
